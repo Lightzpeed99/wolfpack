@@ -1,0 +1,49 @@
+Tarea No. 7:
+	Se desarrollará un servicio web con funcionalidades como:
+		A
+		B
+		C
+	También se desarrollará basandonos en el patrón de diseño.
+	*Visión hasta la DB y almacenamiento.
+	*Modelado de entidad y datos (SQL).
+	- De la mano de los requerimientos del modelo de negocios.
+
+Tomar como base
+
+Sobrino de tía Chonita, entidades: cliente, menú, notas de la comanda, comanda, calendario, dias laborales y festivos.
+
+
+Programador al que se le da una especificacion y la realiza (la cajita de archivos), consultores de desarrollo proponer, analizar, añadir valor, visualizar
+
+
+
+Alcance:
+*Intranet
+	Inclusion de campos en catalogo de articulos para fact. 3.3 SAT
+	Desarrollo de catálogo de fotrografias para las dif. herramientas de TI
+	Desarrollo de módulo de cotizaciones
+	Desarrollo de módulo de catálogos y fichas técnicas de provedores
+	Ecommerce B2C 
+*Sitio web públic
+	Catálogo de productos
+	Mapa de navegación
+	Prototipado del sitio web (diseño, en base a estudios de mercado y referencias)
+Qué es una comanda?: saber que recibe la comanda
+Catálogo de propinas con porcentajes u otro.
+Opciones de selección: Parámetros ajustables en el PEDIDO, el menú es una entidad fuerte,
+PROJECT MANAGEMENT: SE ENCARGA DE MODELAR LOS PROCESOS DEL NEGOCIO. FLUJO DEL PROCESO EN BASE A LOS CASOS DE USOS PRESENTADOS EN EL SISTEMA.
+	NO TODO ES SISTEMATIZABLE, YA QUE UN PROCESO YA DEBE ESTAR MODELADO.
+DESARROLLAR PLANES SOCIALES QUE CONTRIBUYAN A LA VISION Y MISION DEL NEGOCIO DE CHONITA
+	STORYTELLING
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Sitio web	|	Menus			|	Cliente		|	Padecimientos		|	Comanda		|	Blog		|		
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Responsivo		Semanal (atributo)		Nombre			Hipertension			Cliente			Anuncios
+			Actualizable			Domicilio		Diabetes						Avisos
+							Correo elect.		Colesterol alto
+							Teléfono		
+							Padecimientos->
+
+NOTA: las personas comprensivas.
+Tener cuidado con los criterios con los que queremos que nos evaluen.
+TRAMPA: No dispongas de todo el tiempo que te ofrecen.
